@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d4fcd3fe.css",
+    "main.js": "/static/js/main.e5436f35.js",
+    "static/js/787.71df535f.chunk.js": "/static/js/787.71df535f.chunk.js",
+    "static/media/pokemonTheme.mp3": "/static/media/pokemonTheme.9b5c0c626762e7945e96.mp3",
+    "static/media/louis.png": "/static/media/louis.a8534747db891ac46f92.png",
+    "static/media/karen.png": "/static/media/karen.6cb58e4d3005072c6622.png",
+    "static/media/lucie.png": "/static/media/lucie.3045476a7eb9dcd1852f.png",
+    "static/media/myriam.png": "/static/media/myriam.42ce548804b0d9986d3f.png",
+    "static/media/papa.png": "/static/media/papa.8d42c0cd7426a7d44b8e.png",
+    "static/media/battleStart.gif": "/static/media/battleStart.80c592ed86a624f85ac8.gif",
+    "static/media/lisa.png": "/static/media/lisa.34d4520d02b58b29e9b8.png",
+    "static/media/PKMN-RBYGSC.woff": "/static/media/PKMN-RBYGSC.5369645470734dd42b31.woff",
+    "static/media/PKMN-RBYGSC.woff2": "/static/media/PKMN-RBYGSC.854a4176a0e2a26dd758.woff2",
+    "index.html": "/index.html",
+    "main.d4fcd3fe.css.map": "/static/css/main.d4fcd3fe.css.map",
+    "main.e5436f35.js.map": "/static/js/main.e5436f35.js.map",
+    "787.71df535f.chunk.js.map": "/static/js/787.71df535f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4fcd3fe.css",
+    "static/js/main.e5436f35.js"
+  ]
+}
